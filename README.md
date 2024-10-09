@@ -73,5 +73,5 @@ You can view the debug information at the bottom of the browser while the applic
 - Run `php artisan db:seed` to run seeders, if any.
 - Run `php artisan serve`
 
-### You can now access your project at localhost:8000/posts
+### You can now access website at localhost:8000/posts
 if any issues , follow this article [How to Run an Existing Laravel Project](https://mumin-ahmod.medium.com/how-to-run-an-existing-laravel-project-f99a70c0f112)
